@@ -7,7 +7,7 @@
   -webkit-font-smoothing: antialiased;
   -moz-osx-font-smoothing: grayscale;
   color: #e7d5a7;
-  font-family: 'MonteCarlo', cursive;
+  
 }
 
 body {
@@ -19,9 +19,15 @@ body {
   background-color: #883c00;
 }
 
-h1, h2, p {
+h1 {
   margin: 10px;
   text-align: center;
+  font-family: 'MonteCarlo', cursive;
+}
+p {
+  margin: 10px;
+  text-align: center;
+  font-family: 'Ubuntu', sans-serif;
 }
 
 .itens {
