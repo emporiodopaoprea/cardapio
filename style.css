@@ -47,3 +47,8 @@ figcaption {
   width:230px;
   height:230px
 }
+
+.nao_valido {
+  font-size: 10px;
+  margin-top: -10px;
+}
