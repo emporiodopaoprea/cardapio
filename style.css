@@ -20,12 +20,12 @@ body {
 }
 
 h1 {
-  margin: 15px;
+  margin: 20px;
   text-align: center;
   font-family: 'MonteCarlo', cursive;
 }
 p {
-  margin: 10px;
+  margin: 15px;
   text-align: center;
   font-family: 'Ubuntu', sans-serif;
 }
